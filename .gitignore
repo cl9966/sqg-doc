@@ -2,6 +2,7 @@
 node_modules
 public
 src
+webpack
 .eslintignore
 .eslintrc
 babel.config.js
